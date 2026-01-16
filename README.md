@@ -18,7 +18,6 @@
 
 ### 레포 구조
 
-`
 ```bash
 MainQuest
 ├── Quest01
@@ -36,7 +35,6 @@ MainQuest
 └── Quest05
     ├── Quest05.ipynb
     └── README.md
-
 
 Exploration
 ├── Ex01
@@ -63,7 +61,6 @@ Exploration
 └── Ex08
     ├── Ex08.ipynb
     └── README.md
-
 
 GoingDeeper
 ├── GD01
